@@ -113,3 +113,34 @@ draft.md
 
 # folders created by IDE
 .idea
+
+# files and folders i've trimmed
+*.js
+*.ts
+*.vue
+*.json
+*.toml
+.editorconfig
+.npmrc
+.prettierrc
+LICENSE
+.prettierignore
+.vitepress
+README.md
+env.d.ts
+src/translations/
+src/public/
+src/sponsor/
+src/ecosystem/
+src/about/
+src/partners/
+src/tutorial/
+src/developers/
+src/index.md
+src/error-reference/
+src/api/index.md
+src/api/options-*.md
+src/style-guide/index.md
+src/examples/index.md
+
+
